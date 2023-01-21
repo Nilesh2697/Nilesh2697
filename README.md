@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Stack-Web Developer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nilesh2697/Nilesh2697.github.io.git](https://github.com/Nilesh2697/Nilesh2697.github.io.git)
+- 👨‍💻 All of my projects are available at [https://github.com/Nilesh2697/Nilesh2697.github.io.git](https://nilesh2697.github.io/)
 
 - 💬 Ask me about **JavaScript,React,HTML5,CSS,Bootstrap,ReduxBabel,node.js**
 
